@@ -2,7 +2,7 @@ markdown: rdiscount
 permalink: /:title/
 baseurl: /blog
 url: http://bb66.github.io/blog
-name: bb66.github.io
+name: B_B Blog
 author: B_B
 qq: 875284899
 email: 875284899@qq.com
